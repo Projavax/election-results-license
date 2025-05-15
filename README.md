@@ -6,5 +6,3 @@ _The codebase will be made open-source per the license details after the electio
 **Author**
 
 GitHub: @Projavax
-
-*If you decide to use it, please give credits :)*
